@@ -5,7 +5,7 @@ This project introduces an universal tool for ESP32 platform for implementing va
 Obviously cracking is not part of this project, as ESP32 is not sufficient to crack hashes in effective way. The rest can be done on this small, cheap, low-power SoC.
 
 <p align="center">
-    <img src="logo.png" alt="Logo">
+    <img src="logo.png" alt="Logo" width="300">
 </p>
 
 ## Features
